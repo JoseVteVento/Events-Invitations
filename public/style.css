@@ -136,15 +136,16 @@ p {
 
 .lineas{
     margin-top: 10px;
-    margin-bottom: 10px;
+    
     float: right;
     margin-right: 10px;
 }
 
 .input_as_button{
-    
+    color: black;
+    background-color: #E0E6F8;    
     float : right;
-    margin-right: 10px;
+   
 }
 
 .invitation {
